@@ -31,9 +31,10 @@ background: linear-gradient(90deg,rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1)
   max-width: 500px;
   margin: 0 10px;
   padding: 30px;
-  background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
-
-  }
+  border-radius: 16px;
+  background: linear-gradient(145deg, #f7b267 0%, #f79d65 50%, #f4845f 100%);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
 
 .card__form {
   display: flex;
